@@ -14,5 +14,3 @@ if __name__ == '__main__':
     # a=names.sort(key=lambda a : a[1])
     # print(a)
 
-    
-
