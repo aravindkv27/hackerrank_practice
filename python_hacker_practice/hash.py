@@ -3,4 +3,5 @@ if __name__ == '__main__':
     integer_list =input().split()
     int_list=map(int,integer_list)
     tup=tuple(int_list)
+    print(tup)
     print(hash(tup))
