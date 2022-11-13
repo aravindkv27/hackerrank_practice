@@ -1,0 +1,20 @@
+{
+    "Class A": [
+        {
+        "Name": "Aravind",
+        "Datails": [
+            {
+                "age": 21,
+                "DOB": "27/03/2002",
+                "Gender":"Male"
+            }
+        ]
+    }
+    ],
+    "Class B":[
+        {
+            "Name":"Kaaviya",
+            "Age":21
+        }
+    ]
+}
